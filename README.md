@@ -370,3 +370,4 @@ By the end of this 10-week journey, you'll have:
 ---
 
 **Remember:** This is a journey of growth! Every developer started where you are now. Focus on progress, not perfection, and celebrate each milestone along the way.
+# week-6-data-insights-and-intelligence-maijavu
